@@ -1,5 +1,10 @@
 # Livenium ⊽
 
+## 🌐 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-blue)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-green)](#)
+
 🚀 *Empowering the Future of Blockchain with Simplicity, Speed, and Security*
 
 ## Overview
@@ -56,14 +61,7 @@ We welcome community contributions! Please read our contribution guidelines to g
 
 Livenium ⊽ is open-source software licensed under the MIT License.
 
-## 🌐 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-blue)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-green)](#)
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/190873146?s=200&v=4" alt="Livenium Logo" width="100" height="100">
-</p>
 
 <p align="center">
   <img src="https://i.ibb.co/Kw4w88h/Untitled-design-9.png" alt="Footer Image" width="100%">
