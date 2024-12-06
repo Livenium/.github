@@ -1,7 +1,5 @@
 # Livenium ⊽
 
-## 🌐 Connect
-
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-blue)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-green)](#)
 
